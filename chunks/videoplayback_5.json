@@ -1,0 +1,930 @@
+{
+    "chunks": [
+        {
+            "Start": 0.0,
+            "End": 1.78,
+            "Text": " What are you guys doing? You guys are busy today."
+        },
+        {
+            "Start": 1.78,
+            "End": 3.58,
+            "Text": " It's SIGMA web development course."
+        },
+        {
+            "Start": 3.58,
+            "End": 7.22,
+            "Text": " I'm really very happy that you guys have such a big impact on this course."
+        },
+        {
+            "Start": 7.22,
+            "End": 9.3,
+            "Text": " You guys have to like this course because you guys have to like this course."
+        },
+        {
+            "Start": 9.3,
+            "End": 13.06,
+            "Text": " Because for this SIGMA free course, this SIGMA Chads like this."
+        },
+        {
+            "Start": 13.06,
+            "End": 15.620000000000001,
+            "Text": " In today's video, I'll tell you about a basic structure"
+        },
+        {
+            "Start": 15.620000000000001,
+            "End": 17.54,
+            "Text": " where you can see a web site of a web site."
+        },
+        {
+            "Start": 17.54,
+            "End": 21.98,
+            "Text": " In that case, I'll tell you about a mobile trick which you'll find out"
+        },
+        {
+            "Start": 21.98,
+            "End": 25.66,
+            "Text": " that you can preview your phone in your phone."
+        },
+        {
+            "Start": 25.66,
+            "End": 28.7,
+            "Text": " You guys have requested me to tell me in the comment section"
+        },
+        {
+            "Start": 28.7,
+            "End": 32.62,
+            "Text": " that you don't have any HTML, that will help me structure this course better."
+        },
+        {
+            "Start": 32.62,
+            "End": 36.82,
+            "Text": " In this video, I'll tell you about Chads, because it's about Chads."
+        },
+        {
+            "Start": 36.82,
+            "End": 38.32,
+            "Text": " I'm very happy that you guys are here."
+        },
+        {
+            "Start": 38.32,
+            "End": 41.78,
+            "Text": " In today's video, I'll tell you about a lot of things in the video."
+        },
+        {
+            "Start": 41.78,
+            "End": 44.3,
+            "Text": " In this video, I'll tell you about all the concepts you need to learn."
+        },
+        {
+            "Start": 44.3,
+            "End": 47.16,
+            "Text": " Let's go to the computer screen and let's go to the computer screen."
+        },
+        {
+            "Start": 55.8,
+            "End": 57.84,
+            "Text": " So, in this, I'll tell you about the computer screen."
+        },
+        {
+            "Start": 57.84,
+            "End": 64.54,
+            "Text": " And now, we'll talk about a lot of things that are related to a web site."
+        },
+        {
+            "Start": 64.54,
+            "End": 67.10000000000001,
+            "Text": " So, here, I'll tell you about this video 3 times."
+        },
+        {
+            "Start": 67.10000000000001,
+            "End": 73.66,
+            "Text": " I'll show you about a new folder, a new folder, video 3 and other ship project."
+        },
+        {
+            "Start": 73.66,
+            "End": 77.7,
+            "Text": " And here you can see that it's a team of the blue color."
+        },
+        {
+            "Start": 77.7,
+            "End": 80.06,
+            "Text": " And the bossa name will be said that you can buy a blue team."
+        },
+        {
+            "Start": 80.06,
+            "End": 82.28,
+            "Text": " You can buy a team of the same type of people."
+        },
+        {
+            "Start": 82.28,
+            "End": 86.16,
+            "Text": " If you want to change your color, then you can change your color."
+        },
+        {
+            "Start": 176.16,
+            "End": 178.74,
+            "Text": " me ka rumma, anger, vapas, and you'll understand this."
+        },
+        {
+            "Start": 178.74,
+            "End": 181.74,
+            "Text": " This is a basic structure of a streamer website."
+        },
+        {
+            "Start": 181.74,
+            "End": 185.68,
+            "Text": " Suppose we take a doctor type HTML, fill it with HTML tag."
+        },
+        {
+            "Start": 185.68,
+            "End": 188.48,
+            "Text": " Now this HTML tag is opening tag, yagya closing tag."
+        },
+        {
+            "Start": 188.48,
+            "End": 190.84,
+            "Text": " This body is opening tag, yagya closing tag."
+        },
+        {
+            "Start": 190.84,
+            "End": 193.34,
+            "Text": " Yagya head is opening tag, yagya closing tag."
+        },
+        {
+            "Start": 193.34,
+            "End": 193.38,
+            "Text": " Yagya closing tag, yagya closing tag."
+        },
+        {
+            "Start": 193.38,
+            "End": 195.9,
+            "Text": " Yagya s kendera jovi masalaayu head ka contenta."
+        },
+        {
+            "Start": 195.9,
+            "End": 198.1,
+            "Text": " HTML kendera jovi masalaayu what is that?"
+        },
+        {
+            "Start": 198.1,
+            "End": 199.24,
+            "Text": " HTML ka contenta."
+        },
+        {
+            "Start": 199.24,
+            "End": 202.74,
+            "Text": " Usi is the title kender jovi jeezavu title ka contenta."
+        },
+        {
+            "Start": 202.94,
+            "End": 204.74,
+            "Text": " Now you'll cover meta content ka content ka, yagya."
+        },
+        {
+            "Start": 204.74,
+            "End": 207.18,
+            "Text": " Meta hootai is a self closing tag."
+        },
+        {
+            "Start": 207.18,
+            "End": 209.70000000000002,
+            "Text": " 2 tana gitak zooten HTML make a self closing tag."
+        },
+        {
+            "Start": 209.70000000000002,
+            "End": 211.10000000000002,
+            "Text": " 1 kota is a pair tag."
+        },
+        {
+            "Start": 211.10000000000002,
+            "End": 214.74,
+            "Text": " A pair tag is what happens when you open a tag."
+        },
+        {
+            "Start": 214.74,
+            "End": 216.9,
+            "Text": " So this is a basic structure of HTML website."
+        },
+        {
+            "Start": 216.9,
+            "End": 218.9,
+            "Text": " Now you'll see that background red."
+        },
+        {
+            "Start": 218.9,
+            "End": 220.74,
+            "Text": " This is a small background red."
+        },
+        {
+            "Start": 220.74,
+            "End": 222.22,
+            "Text": " This is a whole CSS."
+        },
+        {
+            "Start": 222.22,
+            "End": 226.02,
+            "Text": " If we take a look at the CSS here and see how it goes."
+        },
+        {
+            "Start": 226.02,
+            "End": 227.66000000000003,
+            "Text": " What will happen in the CSS here?"
+        },
+        {
+            "Start": 227.66000000000003,
+            "End": 229.18,
+            "Text": " Go to the CSS here."
+        },
+        {
+            "Start": 229.18,
+            "End": 231.42000000000002,
+            "Text": " And as I said, go to the CSS here."
+        },
+        {
+            "Start": 231.42000000000002,
+            "End": 233.42000000000002,
+            "Text": " Now you'll see how it goes."
+        },
+        {
+            "Start": 233.42000000000002,
+            "End": 235.42000000000002,
+            "Text": " So you can see how it goes."
+        },
+        {
+            "Start": 235.42000000000002,
+            "End": 237.42000000000002,
+            "Text": " So we can see how it goes."
+        },
+        {
+            "Start": 237.42000000000002,
+            "End": 239.42000000000002,
+            "Text": " So you can see how it goes."
+        },
+        {
+            "Start": 239.42000000000002,
+            "End": 241.42000000000002,
+            "Text": " Now you can see how it goes."
+        },
+        {
+            "Start": 241.42000000000002,
+            "End": 243.42000000000002,
+            "Text": " So you can see how it goes."
+        },
+        {
+            "Start": 243.42000000000002,
+            "End": 245.42000000000002,
+            "Text": " So you can see how it goes."
+        },
+        {
+            "Start": 245.42000000000002,
+            "End": 247.42000000000002,
+            "Text": " So this is the HTML content."
+        },
+        {
+            "Start": 247.42000000000002,
+            "End": 249.42000000000002,
+            "Text": " In the CSS javascript add."
+        },
+        {
+            "Start": 249.42000000000002,
+            "End": 252.42000000000002,
+            "Text": " This is additionally CSS and javascript functionalities."
+        },
+        {
+            "Start": 252.42000000000002,
+            "End": 255.42000000000002,
+            "Text": " We didn't use this HTML page."
+        },
+        {
+            "Start": 255.42000000000002,
+            "End": 257.42,
+            "Text": " Now the title tag is already mentioned."
+        },
+        {
+            "Start": 257.42,
+            "End": 259.42,
+            "Text": " This is the title set in the page."
+        },
+        {
+            "Start": 259.42,
+            "End": 263.42,
+            "Text": " Now if you don't know how to do this, you can see the title."
+        },
+        {
+            "Start": 263.42,
+            "End": 265.42,
+            "Text": " The search engines are also mentioned."
+        },
+        {
+            "Start": 265.42,
+            "End": 267.42,
+            "Text": " These are the search engines."
+        },
+        {
+            "Start": 267.42,
+            "End": 269.42,
+            "Text": " The search engines are also mentioned."
+        },
+        {
+            "Start": 269.42,
+            "End": 271.42,
+            "Text": " You can see the code with the HTML model."
+        },
+        {
+            "Start": 271.42,
+            "End": 273.42,
+            "Text": " So the code with the HTML introduction."
+        },
+        {
+            "Start": 273.42,
+            "End": 275.42,
+            "Text": " The HTML workings are all in the titles."
+        },
+        {
+            "Start": 275.42,
+            "End": 277.42,
+            "Text": " You can see here."
+        },
+        {
+            "Start": 277.42,
+            "End": 279.42,
+            "Text": " The HTML introduction is in the title page."
+        },
+        {
+            "Start": 279.42,
+            "End": 281.42,
+            "Text": " So these are the titles."
+        },
+        {
+            "Start": 281.42,
+            "End": 283.42,
+            "Text": " The search engines are used in the search engines."
+        },
+        {
+            "Start": 283.42,
+            "End": 284.42,
+            "Text": " And they are parsed."
+        },
+        {
+            "Start": 284.42,
+            "End": 286.42,
+            "Text": " Now you'll see how it goes."
+        },
+        {
+            "Start": 286.42,
+            "End": 288.42,
+            "Text": " So you can see the HTML workings."
+        },
+        {
+            "Start": 288.42,
+            "End": 292.42,
+            "Text": " Now I'll show you the HTML installation of the title."
+        },
+        {
+            "Start": 292.42,
+            "End": 294.42,
+            "Text": " So the titles are used."
+        },
+        {
+            "Start": 294.42,
+            "End": 296.42,
+            "Text": " So you can see how it goes."
+        },
+        {
+            "Start": 296.42,
+            "End": 298.42,
+            "Text": " You can see how it goes."
+        },
+        {
+            "Start": 298.42,
+            "End": 300.42,
+            "Text": " So you can see the title of the title."
+        },
+        {
+            "Start": 300.42,
+            "End": 302.42,
+            "Text": " So you can see how it goes."
+        },
+        {
+            "Start": 302.42,
+            "End": 304.42,
+            "Text": " The title of the title is not used."
+        },
+        {
+            "Start": 304.42,
+            "End": 305.42,
+            "Text": " You can see how it goes."
+        },
+        {
+            "Start": 305.42,
+            "End": 307.42,
+            "Text": " This is used in the SEO."
+        },
+        {
+            "Start": 307.42,
+            "End": 310.42,
+            "Text": " And this is the content of the page."
+        },
+        {
+            "Start": 310.42,
+            "End": 312.42,
+            "Text": " So this is the disk."
+        },
+        {
+            "Start": 312.42,
+            "End": 314.42,
+            "Text": " The content of the page."
+        },
+        {
+            "Start": 314.42,
+            "End": 316.42,
+            "Text": " The HTML execution of the HTML execution."
+        },
+        {
+            "Start": 316.42,
+            "End": 318.42,
+            "Text": " So the HTML execution is used in this page."
+        },
+        {
+            "Start": 318.42,
+            "End": 320.42,
+            "Text": " So the title of the page is to change the title."
+        },
+        {
+            "Start": 320.42,
+            "End": 322.42,
+            "Text": " So it's good to change the title of the page."
+        },
+        {
+            "Start": 322.42,
+            "End": 324.42,
+            "Text": " So in any framework, we'll use the website."
+        },
+        {
+            "Start": 324.42,
+            "End": 326.42,
+            "Text": " We'll change the title of the page."
+        },
+        {
+            "Start": 326.42,
+            "End": 328.42,
+            "Text": " Now you can see the title of the head section."
+        },
+        {
+            "Start": 328.42,
+            "End": 330.42,
+            "Text": " And the title of the head section."
+        },
+        {
+            "Start": 330.42,
+            "End": 332.42,
+            "Text": " And you can see the script."
+        },
+        {
+            "Start": 332.42,
+            "End": 334.42,
+            "Text": " You can see it."
+        },
+        {
+            "Start": 334.42,
+            "End": 335.42,
+            "Text": " That's it."
+        },
+        {
+            "Start": 335.42,
+            "End": 337.42,
+            "Text": " And the meta tags."
+        },
+        {
+            "Start": 337.42,
+            "End": 339.42,
+            "Text": " I'll tell you about the meta tags."
+        },
+        {
+            "Start": 339.42,
+            "End": 342.42,
+            "Text": " The HTML document is used."
+        },
+        {
+            "Start": 372.42,
+            "End": 374.42,
+            "Text": " The meta tag."
+        },
+        {
+            "Start": 374.42,
+            "End": 376.42,
+            "Text": " The meta tag."
+        },
+        {
+            "Start": 376.42,
+            "End": 377.42,
+            "Text": " The link tags."
+        },
+        {
+            "Start": 377.42,
+            "End": 378.42,
+            "Text": " So the script tag is used."
+        },
+        {
+            "Start": 378.42,
+            "End": 380.42,
+            "Text": " The body's just available."
+        },
+        {
+            "Start": 380.42,
+            "End": 381.42,
+            "Text": " You can also use the top."
+        },
+        {
+            "Start": 381.42,
+            "End": 383.42,
+            "Text": " And what differences are there in this?"
+        },
+        {
+            "Start": 383.42,
+            "End": 384.42,
+            "Text": " We'll talk about the codes."
+        },
+        {
+            "Start": 384.42,
+            "End": 386.42,
+            "Text": " But you can see the link on the top."
+        },
+        {
+            "Start": 386.42,
+            "End": 388.42,
+            "Text": " You can add the CSS."
+        },
+        {
+            "Start": 388.42,
+            "End": 390.42,
+            "Text": " Then you can see the body's main content."
+        },
+        {
+            "Start": 390.42,
+            "End": 393.42,
+            "Text": " You can see the speech on this page."
+        },
+        {
+            "Start": 393.42,
+            "End": 396.42,
+            "Text": " So you can see the body's body."
+        },
+        {
+            "Start": 396.42,
+            "End": 398.42,
+            "Text": " You can see the body's body."
+        },
+        {
+            "Start": 398.42,
+            "End": 399.42,
+            "Text": " And you can see the body's body."
+        },
+        {
+            "Start": 399.42,
+            "End": 401.42,
+            "Text": " And you can see the script."
+        },
+        {
+            "Start": 402.42,
+            "End": 404.42,
+            "Text": " Now the editor and the headleton script."
+        },
+        {
+            "Start": 404.42,
+            "End": 406.42,
+            "Text": " What does it happen?"
+        },
+        {
+            "Start": 406.42,
+            "End": 407.42,
+            "Text": " Namely, there."
+        },
+        {
+            "Start": 407.42,
+            "End": 408.42,
+            "Text": " In the quotation notes,"
+        },
+        {
+            "Start": 408.42,
+            "End": 411.42,
+            "Text": " The music structure."
+        },
+        {
+            "Start": 411.42,
+            "End": 413.42,
+            "Text": " Language is mentioned in a category of tagged."
+        },
+        {
+            "Start": 413.42,
+            "End": 415.42,
+            "Text": " According to tea,"
+        },
+        {
+            "Start": 415.42,
+            "End": 418.42,
+            "Text": " Language are mentioned in a category which exists in the category,"
+        },
+        {
+            "Start": 418.42,
+            "End": 421.42,
+            "Text": " The language is used with pinned in which the tag."
+        },
+        {
+            "Start": 421.42,
+            "End": 424.42,
+            "Text": " The names are used as the name is written on the tab and tea which only you get to use in languages."
+        },
+        {
+            "Start": 424.42,
+            "End": 427.42,
+            "Text": " The names symbol is a attribute of the name."
+        },
+        {
+            "Start": 427.42,
+            "End": 428.42,
+            "Text": " Lac note."
+        },
+        {
+            "Start": 488.42,
+            "End": 489.8,
+            "Text": " has to pay for this market."
+        },
+        {
+            "Start": 491.66,
+            "End": 495.16,
+            "Text": " The most important part of being a senior software developer"
+        },
+        {
+            "Start": 495.16,
+            "End": 499.04,
+            "Text": " is to wear to copy paste from which Staff of our Flow equation..."
+        },
+        {
+            "Start": 499.04,
+            "End": 502.96000000000004,
+            "Text": " and how to paste it from where copyright code was added too close to the job."
+        },
+        {
+            "Start": 502.96000000000004,
+            "End": 503.92,
+            "Text": " Is it chubby?"
+        },
+        {
+            "Start": 503.92,
+            "End": 504.92,
+            "Text": " What we must tell you is.."
+        },
+        {
+            "Start": 504.92,
+            "End": 508.82,
+            "Text": " you know, I have called it in this state of copyright and I am very grateful."
+        },
+        {
+            "Start": 508.82,
+            "End": 512.2,
+            "Text": " You can tell me a lot of things that you want to tell me about..."
+        },
+        {
+            "Start": 512.2,
+            "End": 514.32,
+            "Text": " this website here."
+        },
+        {
+            "Start": 514.32,
+            "End": 516.4200000000001,
+            "Text": " Is mobile since today."
+        },
+        {
+            "Start": 516.42,
+            "End": 518.0999999999999,
+            "Text": " Now, whose steps are they going to listen to?"
+        },
+        {
+            "Start": 518.0999999999999,
+            "End": 521.2199999999999,
+            "Text": " Right click on terminal call and click on IP config."
+        },
+        {
+            "Start": 521.2199999999999,
+            "End": 524.2199999999999,
+            "Text": " If you are in the entire version, then you can call the command prompt or the power shall be called."
+        },
+        {
+            "Start": 524.2199999999999,
+            "End": 526.42,
+            "Text": " IP config click on the icon like this."
+        },
+        {
+            "Start": 526.42,
+            "End": 531.6999999999999,
+            "Text": " You can see that IPv4 address is on 1 9, 2, 1, 6, 8, 1, 9, 9, 9."
+        },
+        {
+            "Start": 531.6999999999999,
+            "End": 534.9799999999999,
+            "Text": " Now, these IP address, we will get the IP address here."
+        },
+        {
+            "Start": 534.9799999999999,
+            "End": 537.2199999999999,
+            "Text": " So, these IPv4 addresses will copy."
+        },
+        {
+            "Start": 537.2199999999999,
+            "End": 540.4599999999999,
+            "Text": " And in our settings, we will take life preview."
+        },
+        {
+            "Start": 541.02,
+            "End": 544.02,
+            "Text": " These local IP host addresses to host your files on jailicawase,"
+        },
+        {
+            "Start": 544.02,
+            "End": 547.02,
+            "Text": " which will be added to my IP address."
+        },
+        {
+            "Start": 547.02,
+            "End": 549.86,
+            "Text": " And after that, I will restart my VS code."
+        },
+        {
+            "Start": 549.86,
+            "End": 554.86,
+            "Text": " You will be able to ensure one thing and ensure that you don't go to Wi-Fi settings."
+        },
+        {
+            "Start": 554.86,
+            "End": 557.26,
+            "Text": " You can make your network private network."
+        },
+        {
+            "Start": 557.26,
+            "End": 560.26,
+            "Text": " Public network is not a private network, it is a network internet."
+        },
+        {
+            "Start": 560.26,
+            "End": 563.46,
+            "Text": " Wi-Fi is also connected to Wi-Fi, it is a private network network."
+        },
+        {
+            "Start": 563.46,
+            "End": 566.26,
+            "Text": " And now, let's review and review the show."
+        },
+        {
+            "Start": 566.26,
+            "End": 568.26,
+            "Text": " So, you can see that you can see the IP address."
+        },
+        {
+            "Start": 568.26,
+            "End": 570.0600000000001,
+            "Text": " You can see the link in the description box."
+        },
+        {
+            "Start": 570.0600000000001,
+            "End": 572.3800000000001,
+            "Text": " In this, I can also create my phone as well."
+        },
+        {
+            "Start": 572.3800000000001,
+            "End": 574.7,
+            "Text": " I can address IP address here."
+        },
+        {
+            "Start": 574.7,
+            "End": 579.22,
+            "Text": " So, I will add 12, 12, 12, 16, 8, 0.199, 0.199, 1.5, 000, 000."
+        },
+        {
+            "Start": 579.22,
+            "End": 582.46,
+            "Text": " 0.3,000,000,000,000,000 jeobhi, your port, for thats all."
+        },
+        {
+            "Start": 582.46,
+            "End": 583.86,
+            "Text": " And here you can see."
+        },
+        {
+            "Start": 583.86,
+            "End": 586.34,
+            "Text": " You can see that the website of each one is already premiered on mobile."
+        },
+        {
+            "Start": 586.34,
+            "End": 588.1400000000001,
+            "Text": " This trick is very easy."
+        },
+        {
+            "Start": 588.1400000000001,
+            "End": 590.7,
+            "Text": " Whenever we want to preview mobile in mobile during months."
+        },
+        {
+            "Start": 590.7,
+            "End": 593.22,
+            "Text": " The last 2 of these websites include phone,"
+        },
+        {
+            "Start": 593.22,
+            "End": 595.5400000000001,
+            "Text": " then we will check the data that we've posted on the phone."
+        },
+        {
+            "Start": 595.5400000000001,
+            "End": 598.98,
+            "Text": " He was a good address on our website."
+        },
+        {
+            "Start": 598.98,
+            "End": 606.84,
+            "Text": "PPKHBI khupa muar."
+        },
+        {
+            "Start": 606.84,
+            "End": 609.98,
+            "Text": " And then revelani.."
+        },
+        {
+            "Start": 609.98,
+            "End": 612.48,
+            "Text": " We will Tamil's Ruralaka Work.."
+        },
+        {
+            "Start": 612.48,
+            "End": 614.48,
+            "Text": " Thank you for watching!"
+        },
+        {
+            "Start": 623.2,
+            "End": 624.72,
+            "Text": " What should we do now?"
+        },
+        {
+            "Start": 624.72,
+            "End": 625.16,
+            "Text": " what?"
+        },
+        {
+            "Start": 625.4,
+            "End": 628.04,
+            "Text": " That's why \ubc29\uc1a1 won't be able to do it."
+        },
+        {
+            "Start": 628.16,
+            "End": 631.1999999999999,
+            "Text": " But if you have any expectations of one motors, I'll drop jeep."
+        },
+        {
+            "Start": 631.3,
+            "End": 633.88,
+            "Text": " For me, Iosium on sentyaji and New kinda comment on what Metro will do."
+        },
+        {
+            "Start": 633.98,
+            "End": 636.14,
+            "Text": " Or if you particularly desire to do a video show on Co."
+        },
+        {
+            "Start": 636.24,
+            "End": 638.8399999999999,
+            "Text": " you can see our reaction on what you want."
+        },
+        {
+            "Start": 638.9399999999999,
+            "End": 642.3399999999999,
+            "Text": " That's why we participate in study about internships with you."
+        },
+        {
+            "Start": 642.4399999999999,
+            "End": 645.98,
+            "Text": " For that many plataformas will do a good job and contribute to a better world of football league."
+        },
+        {
+            "Start": 646.1,
+            "End": 647.38,
+            "Text": " I hope you like your internet till this point."
+        },
+        {
+            "Start": 647.5,
+            "End": 649.22,
+            "Text": " Thanks for coming to the new stage of Shouldn't Thifferent World!"
+        },
+        {
+            "Start": 649.3199999999999,
+            "End": 650.66,
+            "Text": " Thank you for watching this video."
+        },
+        {
+            "Start": 650.74,
+            "End": 651.52,
+            "Text": " I will see you next time!"
+        }
+    ],
+    "full_text": " What are you guys doing? You guys are busy today.  It's SIGMA web development course.  I'm really very happy that you guys have such a big impact on this course.  You guys have to like this course because you guys have to like this course.  Because for this SIGMA free course, this SIGMA Chads like this.  In today's video, I'll tell you about a basic structure  where you can see a web site of a web site.  In that case, I'll tell you about a mobile trick which you'll find out  that you can preview your phone in your phone.  You guys have requested me to tell me in the comment section  that you don't have any HTML, that will help me structure this course better.  In this video, I'll tell you about Chads, because it's about Chads.  I'm very happy that you guys are here.  In today's video, I'll tell you about a lot of things in the video.  In this video, I'll tell you about all the concepts you need to learn.  Let's go to the computer screen and let's go to the computer screen.  So, in this, I'll tell you about the computer screen.  And now, we'll talk about a lot of things that are related to a web site.  So, here, I'll tell you about this video 3 times.  I'll show you about a new folder, a new folder, video 3 and other ship project.  And here you can see that it's a team of the blue color.  And the bossa name will be said that you can buy a blue team.  You can buy a team of the same type of people.  If you want to change your color, then you can change your color.  me ka rumma, anger, vapas, and you'll understand this.  This is a basic structure of a streamer website.  Suppose we take a doctor type HTML, fill it with HTML tag.  Now this HTML tag is opening tag, yagya closing tag.  This body is opening tag, yagya closing tag.  Yagya head is opening tag, yagya closing tag.  Yagya closing tag, yagya closing tag.  Yagya s kendera jovi masalaayu head ka contenta.  HTML kendera jovi masalaayu what is that?  HTML ka contenta.  Usi is the title kender jovi jeezavu title ka contenta.  Now you'll cover meta content ka content ka, yagya.  Meta hootai is a self closing tag.  2 tana gitak zooten HTML make a self closing tag.  1 kota is a pair tag.  A pair tag is what happens when you open a tag.  So this is a basic structure of HTML website.  Now you'll see that background red.  This is a small background red.  This is a whole CSS.  If we take a look at the CSS here and see how it goes.  What will happen in the CSS here?  Go to the CSS here.  And as I said, go to the CSS here.  Now you'll see how it goes.  So you can see how it goes.  So we can see how it goes.  So you can see how it goes.  Now you can see how it goes.  So you can see how it goes.  So you can see how it goes.  So this is the HTML content.  In the CSS javascript add.  This is additionally CSS and javascript functionalities.  We didn't use this HTML page.  Now the title tag is already mentioned.  This is the title set in the page.  Now if you don't know how to do this, you can see the title.  The search engines are also mentioned.  These are the search engines.  The search engines are also mentioned.  You can see the code with the HTML model.  So the code with the HTML introduction.  The HTML workings are all in the titles.  You can see here.  The HTML introduction is in the title page.  So these are the titles.  The search engines are used in the search engines.  And they are parsed.  Now you'll see how it goes.  So you can see the HTML workings.  Now I'll show you the HTML installation of the title.  So the titles are used.  So you can see how it goes.  You can see how it goes.  So you can see the title of the title.  So you can see how it goes.  The title of the title is not used.  You can see how it goes.  This is used in the SEO.  And this is the content of the page.  So this is the disk.  The content of the page.  The HTML execution of the HTML execution.  So the HTML execution is used in this page.  So the title of the page is to change the title.  So it's good to change the title of the page.  So in any framework, we'll use the website.  We'll change the title of the page.  Now you can see the title of the head section.  And the title of the head section.  And you can see the script.  You can see it.  That's it.  And the meta tags.  I'll tell you about the meta tags.  The HTML document is used.  The meta tag.  The meta tag.  The link tags.  So the script tag is used.  The body's just available.  You can also use the top.  And what differences are there in this?  We'll talk about the codes.  But you can see the link on the top.  You can add the CSS.  Then you can see the body's main content.  You can see the speech on this page.  So you can see the body's body.  You can see the body's body.  And you can see the body's body.  And you can see the script.  Now the editor and the headleton script.  What does it happen?  Namely, there.  In the quotation notes,  The music structure.  Language is mentioned in a category of tagged.  According to tea,  Language are mentioned in a category which exists in the category,  The language is used with pinned in which the tag.  The names are used as the name is written on the tab and tea which only you get to use in languages.  The names symbol is a attribute of the name.  Lac note.  has to pay for this market.  The most important part of being a senior software developer  is to wear to copy paste from which Staff of our Flow equation...  and how to paste it from where copyright code was added too close to the job.  Is it chubby?  What we must tell you is..  you know, I have called it in this state of copyright and I am very grateful.  You can tell me a lot of things that you want to tell me about...  this website here.  Is mobile since today.  Now, whose steps are they going to listen to?  Right click on terminal call and click on IP config.  If you are in the entire version, then you can call the command prompt or the power shall be called.  IP config click on the icon like this.  You can see that IPv4 address is on 1 9, 2, 1, 6, 8, 1, 9, 9, 9.  Now, these IP address, we will get the IP address here.  So, these IPv4 addresses will copy.  And in our settings, we will take life preview.  These local IP host addresses to host your files on jailicawase,  which will be added to my IP address.  And after that, I will restart my VS code.  You will be able to ensure one thing and ensure that you don't go to Wi-Fi settings.  You can make your network private network.  Public network is not a private network, it is a network internet.  Wi-Fi is also connected to Wi-Fi, it is a private network network.  And now, let's review and review the show.  So, you can see that you can see the IP address.  You can see the link in the description box.  In this, I can also create my phone as well.  I can address IP address here.  So, I will add 12, 12, 12, 16, 8, 0.199, 0.199, 1.5, 000, 000.  0.3,000,000,000,000,000 jeobhi, your port, for thats all.  And here you can see.  You can see that the website of each one is already premiered on mobile.  This trick is very easy.  Whenever we want to preview mobile in mobile during months.  The last 2 of these websites include phone,  then we will check the data that we've posted on the phone.  He was a good address on our website. PPKHBI khupa muar.  And then revelani..  We will Tamil's Ruralaka Work..  Thank you for watching!  What should we do now?  what?  That's why \ubc29\uc1a1 won't be able to do it.  But if you have any expectations of one motors, I'll drop jeep.  For me, Iosium on sentyaji and New kinda comment on what Metro will do.  Or if you particularly desire to do a video show on Co.  you can see our reaction on what you want.  That's why we participate in study about internships with you.  For that many plataformas will do a good job and contribute to a better world of football league.  I hope you like your internet till this point.  Thanks for coming to the new stage of Shouldn't Thifferent World!  Thank you for watching this video.  I will see you next time!"
+}
