@@ -1,23 +1,32 @@
 from faster_whisper import WhisperModel
 import json
+import os
 
 model = WhisperModel(
-    "tiny",        
+    "tiny",
     device="cpu",
-    compute_type="int8"   # VERY IMPORTANT → reduces RAM usage
+    compute_type="int8"
 )
+audio_files = os.listdir("audios")
+for audio in audio_files:
+    if audio.endswith(".mp3"):
+        segments, info = model.transcribe(f"audios/{audio}")
 
-segments, info = model.transcribe("audios/videoplayback_5.mp3")
+    chunks = []
 
-chunks =[] 
+    for segment in segments:
+        chunks.append({
+            "Start": segment.start,
+            "End": segment.end,
+            "Text": segment.text
+        })
 
-for segment in segments:
-    chunks.append({
-        "Start": segment.start,   # dot notation
-        "End": segment.end,       # dot notation
-        "Text": segment.text      # dot notation
-    })
-for i in range(5):
-    with open(f"chunks/video_{i+1}.json", "w") as f :
-        json.dump(chunks , f)
+    chunks_with_metadata = {
+        "chunks": chunks,
+        "full_text": " ".join([c["Text"] for c in chunks])
+    }
 
+    output_name = os.path.splitext(audio)[0] + ".json"
+
+    with open(f"chunks/{output_name}", "w") as f:
+        json.dump(chunks_with_metadata, f, indent=4)
