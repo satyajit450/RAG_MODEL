@@ -16,6 +16,7 @@ chunk_id = 0
 for json_file in jsons:
     with open(f"chunks/{json_file}") as f:
         content = json.load(f)
+    print(f"Creating Embeddings for {json_file}")
 
     for chunk in content['chunks']:  # simple loop, no enumerate needed
         chunk['chunk_id'] = chunk_id
@@ -25,10 +26,11 @@ for json_file in jsons:
         emb = create_embedding(chunk["Text"])["embeddings"][0]
         chunk["embedding"] = emb
 
-        my_dict.append(chunk)
+        my_dict.append(chunk) 
 
 # create dataframe
 df = pd.DataFrame.from_records(my_dict)
+df.to_csv("embeding.csv")
 
 # print only summary, not full vectors
-print(df)
+# print(df)
