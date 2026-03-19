@@ -4,70 +4,34 @@ import json
 import pandas as pd
 
 def create_embedding(text_list):
-    # https://github.com/ollama/ollama/blob/main/docs/api.md#generate-embeddings
     r = requests.post("http://localhost:11434/api/embed", json={
         "model": "bge-m3",
         "input": text_list
     })
+    return r.json()["embeddings"]
 
-    embedding = r.json()["embeddings"] 
-    return embedding
+jsons = os.listdir("chunks")  # or "jsons" (choose one folder)
 
-
-jsons = os.listdir("chunks")  # List all the jsons 
 my_dicts = []
 chunk_id = 0
 
 for json_file in jsons:
     with open(f"chunks/{json_file}") as f:
         content = json.load(f)
+
     print(f"Creating Embeddings for {json_file}")
-    embeddings = create_embedding([c['text'] for c in content['chunks']])
-       
+
+    embeddings = create_embedding([
+        c.get('text') or c.get('Text') for c in content['chunks']
+    ])
+
     for i, chunk in enumerate(content['chunks']):
         chunk['chunk_id'] = chunk_id
         chunk['embedding'] = embeddings[i]
         chunk_id += 1
-        my_dicts.append(chunk) 
-# print(my_dicts)
+        my_dicts.append(chunk)
+        if(i==5):
+            break
 
 df = pd.DataFrame.from_records(my_dicts)
-print(df)
-# a = create_embedding(["Cat sat on the mat", "Harry dances on a mat"])
-# print(a)import requests
-import os
-import json
-import pandas as pd
-
-def create_embedding(text_list):
-    # https://github.com/ollama/ollama/blob/main/docs/api.md#generate-embeddings
-    r = requests.post("http://localhost:11434/api/embed", json={
-        "model": "bge-m3",
-        "input": text_list
-    })
-
-    embedding = r.json()["embeddings"] 
-    return embedding
-
-
-jsons = os.listdir("jsons")  # List all the jsons 
-my_dicts = []
-chunk_id = 0
-
-for json_file in jsons:
-    with open(f"jsons/{json_file}") as f:
-        content = json.load(f)
-    print(f"Creating Embeddings for {json_file}")
-    embeddings = create_embedding([c['Text'] for c in content['chunks']])
-       
-    for i, chunk in enumerate(content['chunks']):
-        chunk['chunk_id'] = chunk_id
-        chunk['embedding'] = embeddings[i]
-        chunk_id += 1
-        my_dicts.append(chunk) 
-# print(my_dicts)
-
-df = pd.DataFrame.from_records(my_dicts)
-print(df)
-# a = create_embedding(["Cat sat on the mat", "Harry dances on a mat"])
-# print(a)
+print(df[['title', 'chunk_id', 'embedding']].head())
