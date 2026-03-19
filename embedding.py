@@ -30,7 +30,5 @@ for json_file in jsons:
 
 # create dataframe
 df = pd.DataFrame.from_records(my_dict)
-df.to_csv("embeding.csv")
-
 # print only summary, not full vectors
 # print(df)
