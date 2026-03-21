@@ -10,6 +10,7 @@ model = WhisperModel(
 audio_files = os.listdir("audios")
 for audio in audio_files:
     if("_" in audio):
+        number = audio.split(".")[0].split("_")[1]
         title = audio.split(".")[0]
         if audio.endswith(".mp3"):
             segments, info = model.transcribe(f"audios/{audio}")
@@ -18,6 +19,8 @@ for audio in audio_files:
             
             for segment in segments:
                 chunks.append({
+                    "number": number,
+                    "title":title,
                     "Start": segment.start,
                     "End": segment.end,
                     "Text": segment.text
