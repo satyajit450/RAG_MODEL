@@ -1,925 +1,789 @@
 {
     "chunks": [
         {
+            "number": "3",
+            "title": "videoplayback_3",
             "Start": 0.0,
-            "End": 1.86,
+            "End": 0.88,
             "Text": " What are you guys doing?"
         },
         {
-            "Start": 1.86,
-            "End": 3.7,
-            "Text": " It's Sigma web development course."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 0.88,
+            "End": 1.78,
+            "Text": " You guys are busy today."
         },
         {
-            "Start": 3.7,
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 1.78,
+            "End": 3.66,
+            "Text": " You guys are sick, my web development course."
+        },
+        {
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 3.66,
             "End": 6.26,
-            "Text": " I'm really happy that you guys have such a nice app."
+            "Text": " I'm really happy that you guys have so many things to do."
         },
         {
+            "number": "3",
+            "title": "videoplayback_3",
             "Start": 6.26,
-            "End": 7.3,
-            "Text": " You guys have got this course."
+            "End": 7.140000000000001,
+            "Text": " You guys have got so many things to do."
         },
         {
-            "Start": 7.3,
-            "End": 9.3,
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 7.140000000000001,
+            "End": 9.38,
             "Text": " You guys have to like this course."
         },
         {
-            "Start": 9.3,
-            "End": 10.9,
-            "Text": " Because for this Sigma free course,"
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 9.38,
+            "End": 13.06,
+            "Text": " Because for this sick, you guys have to like this sick, my chats."
         },
         {
-            "Start": 10.9,
-            "End": 13.1,
-            "Text": " this is the same thing for Sigma Chats."
-        },
-        {
-            "Start": 13.1,
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 13.06,
             "End": 15.58,
-            "Text": " In today's video, I'll tell you about a basic structure"
+            "Text": " Today's video I'll tell you about basic structures"
         },
         {
+            "number": "3",
+            "title": "videoplayback_3",
             "Start": 15.58,
             "End": 17.580000000000002,
-            "Text": " where a website is going to be written."
+            "Text": " where I go from one website to another."
         },
         {
+            "number": "3",
+            "title": "videoplayback_3",
             "Start": 17.580000000000002,
-            "End": 20.900000000000002,
-            "Text": " Similarly, I'll tell you about a mobile trick."
+            "End": 21.98,
+            "Text": " That's why I'll tell you about a mobile trick that you guys will know"
         },
         {
-            "Start": 20.900000000000002,
-            "End": 25.7,
-            "Text": " You'll know that you can preview your phone in your phone."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 21.98,
+            "End": 25.66,
+            "Text": " that you can preview your phone in your phone."
         },
         {
-            "Start": 25.7,
-            "End": 28.580000000000002,
-            "Text": " You'll know me in the comment section below."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 25.66,
+            "End": 28.54,
+            "Text": " You guys have requested me to comment section."
         },
         {
-            "Start": 28.580000000000002,
-            "End": 30.580000000000002,
-            "Text": " You'll know that you don't have any HTML."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 28.54,
+            "End": 30.599999999999998,
+            "Text": " You guys have to know that you don't have any HDML."
         },
         {
-            "Start": 30.580000000000002,
-            "End": 32.58,
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 30.599999999999998,
+            "End": 32.68,
             "Text": " That will help me structure this course better."
         },
         {
-            "Start": 32.58,
-            "End": 35.38,
-            "Text": " In this video, I'll tell you about Chats."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 32.68,
+            "End": 35.44,
+            "Text": " In this video I'll tell you about a chargey beauty gun."
         },
         {
-            "Start": 35.38,
-            "End": 38.38,
-            "Text": " Because in Chats, I'll tell you about a lot of things."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 35.44,
+            "End": 36.8,
+            "Text": " Because it's a chargey beauty gun."
         },
         {
-            "Start": 38.38,
-            "End": 41.08,
-            "Text": " In today's video, I'll tell you about a lot of things."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 36.8,
+            "End": 38.4,
+            "Text": " I'm going to talk about it a few times."
         },
         {
-            "Start": 41.08,
-            "End": 43.08,
-            "Text": " So, in this video, I'll tell you about a lot of things."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 38.4,
+            "End": 41.04,
+            "Text": " In other videos I'll tell you about a lot of things."
         },
         {
-            "Start": 43.08,
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 41.04,
             "End": 44.28,
-            "Text": " And all the concepts you learn."
+            "Text": " So I'll tell you more about this video and the concept of all the concepts."
         },
         {
+            "number": "3",
+            "title": "videoplayback_3",
             "Start": 44.28,
-            "End": 45.78,
-            "Text": " Let's go to the next screen."
-        },
-        {
-            "Start": 45.78,
             "End": 47.28,
-            "Text": " Let's go to the next screen."
+            "Text": " Let's go to the screen and let's roll the dice."
         },
         {
-            "Start": 55.78,
-            "End": 57.88,
-            "Text": " So, in this match of your computer screen,"
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 55.82,
+            "End": 57.8,
+            "Text": " So this is my computer screen."
         },
         {
-            "Start": 57.88,
-            "End": 60.68,
-            "Text": " I'll talk about a bit of a misconception."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 57.800000000000004,
+            "End": 60.84,
+            "Text": " And now we'll talk about a lot of things that I'll talk about."
         },
         {
-            "Start": 60.68,
-            "End": 62.480000000000004,
-            "Text": " I'll tell you about a lot of things like a day and a week."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 60.84,
+            "End": 64.58,
+            "Text": " I'll tell you about a lot of things that I'll tell you about."
         },
         {
-            "Start": 62.480000000000004,
-            "End": 64.48,
-            "Text": " A structure is based on some websites."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 64.58,
+            "End": 65.98,
+            "Text": " So here I'll tell you about my folder."
         },
         {
-            "Start": 64.48,
-            "End": 66.98,
-            "Text": " So, I'll tell you about this in this video."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 65.98,
+            "End": 71.18,
+            "Text": " In this video I'll tell you about a new folder, video 3 and video 3."
         },
         {
-            "Start": 66.98,
-            "End": 70.38,
-            "Text": " Then, I'll tell you about a new folder, video 3 and video 3."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 71.18,
+            "End": 73.82000000000001,
+            "Text": " I'll open up the ship to open up the open with code."
         },
         {
-            "Start": 70.38,
-            "End": 73.38,
-            "Text": " And I'll tell you about another shift right away."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 73.82000000000001,
+            "End": 77.58000000000001,
+            "Text": " And here you can see that my theme is blue color."
         },
         {
-            "Start": 73.38,
-            "End": 75.38,
-            "Text": " And I'll tell you about this here."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 77.58000000000001,
+            "End": 79.66,
+            "Text": " And the bossa will tell you that this is blue theme."
         },
         {
-            "Start": 75.38,
-            "End": 76.38,
-            "Text": " Which is my theme."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 79.66,
+            "End": 84.22,
+            "Text": " You can see that the theme is that you want to change your choice if you want to change your color."
         },
         {
-            "Start": 76.38,
-            "End": 77.38,
-            "Text": " She's a blue colour."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 84.32,
+            "End": 86.78,
+            "Text": " So you can change your color in your color."
         },
         {
-            "Start": 77.38,
-            "End": 79.38,
-            "Text": " And she will tell that she's a blue or blue thing."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 86.78,
+            "End": 88.53999999999999,
+            "Text": " I'll use the Guit of God."
         },
         {
-            "Start": 79.38,
-            "End": 81.38,
-            "Text": " You can see that she has a theme which is a good choice."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 88.53999999999999,
+            "End": 90.02,
+            "Text": " I'll use the Guit of God."
         },
         {
-            "Start": 81.38,
-            "End": 84.38,
-            "Text": " If you want to change your colour theme,"
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 90.02,
+            "End": 91.02,
+            "Text": " You can use it."
         },
         {
-            "Start": 84.38,
-            "End": 86.88,
-            "Text": " then you can change the colour theme in the green,"
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 91.02,
+            "End": 92.17999999999999,
+            "Text": " One new file is for you."
         },
         {
-            "Start": 116.88,
-            "End": 123.88,
-            "Text": " Here I am going to ask you to subscribe to my channel and share this video with your friends."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 92.17999999999999,
+            "End": 94.2,
+            "Text": " I'll add the index.html."
         },
         {
-            "Start": 123.88,
-            "End": 126.88,
-            "Text": " You can also press subscribe to my channel and share this video with your friends."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 94.2,
+            "End": 95.56,
+            "Text": " We've already talked about this."
         },
         {
-            "Start": 126.88,
-            "End": 128.88,
-            "Text": " Here I am going to go to open with browser."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 95.56,
+            "End": 99.72,
+            "Text": " You can download the title of the page or the content."
         },
         {
-            "Start": 128.88,
-            "End": 132.88,
-            "Text": " Here I am going to go to the background and write this on my channel."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 99.72,
+            "End": 102.6,
+            "Text": " You can use the link to the link."
         },
         {
-            "Start": 132.88,
-            "End": 134.88,
-            "Text": " I am not going to tell you this already."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 102.6,
+            "End": 106.6,
+            "Text": " You can use the link to the code."
         },
         {
-            "Start": 134.88,
-            "End": 136.88,
-            "Text": " I am going to tell you this already."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 106.6,
+            "End": 107.6,
+            "Text": " I'm using it for this."
         },
         {
-            "Start": 136.88,
-            "End": 140.88,
-            "Text": " You will now tell me that this structure is very important."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 107.6,
+            "End": 110.0,
+            "Text": " I've already mentioned in the previous video."
         },
         {
-            "Start": 170.88,
-            "End": 172.88,
-            "Text": " Now you have to reload it."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 230.0,
+            "End": 233.66,
+            "Text": " y Mrz get\u8857 dal..The is your home and although there isn't had enough cash to reload"
         },
         {
-            "Start": 172.88,
-            "End": 174.88,
-            "Text": " Now I will tell you something."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 233.66,
+            "End": 234.96,
+            "Text": " you can see that there is so much cash..."
         },
         {
-            "Start": 174.88,
-            "End": 178.88,
-            "Text": " I am going to hit on my right leg and I will explain this."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 234.96,
+            "End": 252.02,
+            "Text": " , From there no Obs Alexandria has all these kind of"
         },
         {
-            "Start": 178.88,
-            "End": 181.88,
-            "Text": " This is a basic structure that is on STMIL website."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 252.02,
+            "End": 255.42000000000002,
+            "Text": " 2016"
         },
         {
-            "Start": 181.88,
-            "End": 183.88,
-            "Text": " First we want to talk about Dr. PHDMIL."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 255.42000000000002,
+            "End": 256.28,
+            "Text": "\u5165"
         },
         {
-            "Start": 183.88,
-            "End": 184.88,
-            "Text": " Then its NCT ML attack opening tag."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 256.28000000000003,
+            "End": 260.04,
+            "Text": " Now let me tell you about this page, this page is used in the use of title set."
         },
         {
-            "Start": 184.88,
-            "End": 186.88,
-            "Text": " It was opened tag or closed tag for Mahatabharata."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 260.04,
+            "End": 263.24,
+            "Text": " Now if you don't know if you don't know, you can see the title of the page."
         },
         {
-            "Start": 186.88,
-            "End": 188.88,
-            "Text": " You can do your opening tag or your closing tag."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 263.24,
+            "End": 266.36,
+            "Text": " The search engines are used, they are used as a search engine."
         },
         {
-            "Start": 188.88,
-            "End": 190.88,
-            "Text": " I am going to give a head of the opening tag."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 266.36,
+            "End": 271.8,
+            "Text": " The search engines are used as Google, if you want to see a code with Harry HTML."
         },
         {
-            "Start": 190.88,
-            "End": 193.88,
-            "Text": " This is the same thing as this one."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 271.8,
+            "End": 276.6,
+            "Text": " So the code with Harry HTML introduction, HTML working, all the titles are given by me."
         },
         {
-            "Start": 193.88,
-            "End": 195.88,
-            "Text": " This is the same thing as that of the HK content."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 276.6,
+            "End": 279.88000000000005,
+            "Text": " You can see that there is a search engine in the HTML introduction."
         },
         {
-            "Start": 195.88,
-            "End": 197.88,
-            "Text": " What is the same thing as the HTA?"
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 279.88000000000005,
+            "End": 284.68,
+            "Text": " So these titles are used as search engines, and they are parsed."
         },
         {
-            "Start": 197.88,
-            "End": 199.35999999999999,
-            "Text": " SSTMILG CONTENT."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 284.68,
+            "End": 286.68,
+            "Text": " Now let me change the page."
         },
         {
-            "Start": 199.35999999999999,
-            "End": 202.66,
-            "Text": " Usee is a title ken that jobi jeez evo title ga content."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 286.68,
+            "End": 288.68,
+            "Text": " So you will see HTML working as a title."
         },
         {
-            "Start": 202.66,
-            "End": 204.6,
-            "Text": " Ab app lo kove meta content kya vr."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 288.68,
+            "End": 292.68,
+            "Text": " Now I will show you the HTML installation of the other page."
         },
         {
-            "Start": 204.6,
-            "End": 207.22,
-            "Text": " So meta hootay hai is a self closing tag."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 292.68,
+            "End": 298.68,
+            "Text": " So the titles are used as a search engine as a search engine."
         },
         {
-            "Start": 207.22,
-            "End": 209.78,
-            "Text": " 2-thana ghtakzoo the e. HTML mega self closing tag."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 298.68,
+            "End": 300.68,
+            "Text": " You can see the title of the page."
         },
         {
-            "Start": 209.78,
-            "End": 211.1,
-            "Text": " Ore kootay hai pair tag."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 300.68,
+            "End": 303.68,
+            "Text": " So the title of the page is used as a search engine."
         },
         {
-            "Start": 211.1,
-            "End": 214.66,
-            "Text": " pair tag bhi kyao tai ki app ka opening tag hootayi closing tag hootayi."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 303.68,
+            "End": 306.68,
+            "Text": " You can see that the title is used as a search engine."
         },
         {
-            "Start": 214.66,
-            "End": 216.82,
-            "Text": " So, this is a structure shtmILG website."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 486.68,
+            "End": 496.68,
+            "Text": " The most important part of being a senior software developer is to wear to copy paste."
         },
         {
-            "Start": 216.82,
-            "End": 218.92,
-            "Text": " Now, here you can see background red."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 496.68,
+            "End": 498.68,
+            "Text": " From which type of work flow question do copy paste?"
         },
         {
-            "Start": 218.94000000000003,
-            "End": 220.58,
-            "Text": " This politics logo, here you must read red."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 498.68,
+            "End": 502.68,
+            "Text": " And how do you paste it from where copyright code is added?"
         },
         {
-            "Start": 220.58,
-            "End": 223.00000000000003,
-            "Text": " Right here is suissans act kya doana shtas kootayi hesyatto ou dc\u00ed es syetzung."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 502.68,
+            "End": 504.68,
+            "Text": " You can see that there are two types of topics which you can understand."
         },
         {
-            "Start": 253.0,
-            "End": 256.22,
-            "Text": " S Stockholm newspaper will and this is the only thing for this election To be remembered"
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 504.68,
+            "End": 506.68,
+            "Text": " This is my copyright statement."
         },
         {
-            "Start": 257.42,
-            "End": 259.74,
-            "Text": " basoolish tax."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 506.68,
+            "End": 508.68,
+            "Text": " But I am very excited about this statement."
         },
         {
-            "Start": 261.34,
-            "End": 277.8,
-            "Text": " If you change the object of a project or you want to see a total of 10 bullet"
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 508.68,
+            "End": 511.68,
+            "Text": " Now let me tell you a lot about this technique."
         },
         {
-            "Start": 277.8,
-            "End": 284.6,
-            "Text": " HTML Introduction & title page, so these titles on page are used in search engines and parts of the page."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 511.68,
+            "End": 515.6800000000001,
+            "Text": " You can see that there are two types of topics which we will develop in this mobile."
         },
         {
-            "Start": 284.6,
-            "End": 288.84000000000003,
-            "Text": " Now you will see page change, so you will see HTML working as a title."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 515.6800000000001,
+            "End": 517.6800000000001,
+            "Text": " Now let me tell you the steps."
         },
         {
-            "Start": 288.84000000000003,
-            "End": 292.6,
-            "Text": " Now I will show you the page change and you will see HTML installation as a title."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 517.6800000000001,
+            "End": 519.6800000000001,
+            "Text": " Let me tell you right click on terminal call."
         },
         {
-            "Start": 292.6,
-            "End": 299.88,
-            "Text": " So titles which are used in the same way, you will see a change in the same way, which will be used in the same way."
-        },
-        {
-            "Start": 299.88,
-            "End": 305.72,
-            "Text": " So HTML pages are used in title means you don't know what you are seeing here."
-        },
-        {
-            "Start": 305.72,
-            "End": 307.48,
-            "Text": " This is used in this way."
-        },
-        {
-            "Start": 307.48,
-            "End": 310.52000000000004,
-            "Text": " And this is the basis of the page content."
-        },
-        {
-            "Start": 310.52000000000004,
-            "End": 312.92,
-            "Text": " So this is the one that describes the page content."
-        },
-        {
-            "Start": 312.92,
-            "End": 315.16,
-            "Text": " So I am going to tell you the HTML execution."
-        },
-        {
-            "Start": 315.16,
-            "End": 317.8,
-            "Text": " HTML execution means HTML execution is executed."
-        },
-        {
-            "Start": 317.8,
-            "End": 319.32000000000005,
-            "Text": " This is the basis of page change."
-        },
-        {
-            "Start": 319.32000000000005,
-            "End": 321.96000000000004,
-            "Text": " So page title change is very good."
-        },
-        {
-            "Start": 321.96000000000004,
-            "End": 325.48,
-            "Text": " So in any framework we will make a page title change."
-        },
-        {
-            "Start": 325.48,
-            "End": 330.28000000000003,
-            "Text": " Now you will see the header section of the header page, which is titled by title."
-        },
-        {
-            "Start": 330.28000000000003,
-            "End": 334.28000000000003,
-            "Text": " And you will see the script you want to link."
-        },
-        {
-            "Start": 334.28000000000003,
-            "End": 338.36,
-            "Text": " So this is also the meta tags that we will talk about in the meta tags."
-        },
-        {
-            "Start": 338.36,
-            "End": 341.72,
-            "Text": " Meta tags means basically this is the HTML document."
-        },
-        {
-            "Start": 341.72,
-            "End": 343.72,
-            "Text": " How is it?"
-        },
-        {
-            "Start": 343.72,
-            "End": 345.72,
-            "Text": " Keywords are used in the description."
-        },
-        {
-            "Start": 345.72,
-            "End": 349.72,
-            "Text": " Meta description is a very important keyword for this."
-        },
-        {
-            "Start": 349.72,
-            "End": 352.04,
-            "Text": " So here you can select the page."
-        },
-        {
-            "Start": 352.04,
-            "End": 353.32000000000005,
-            "Text": " But you will see my website as well."
-        },
-        {
-            "Start": 353.32000000000005,
-            "End": 358.20000000000005,
-            "Text": " So you will see the view page source in the meta description tag."
-        },
-        {
-            "Start": 358.20000000000005,
-            "End": 362.84000000000003,
-            "Text": " You can see the compressed HTML, but you can see the meta description tag."
-        },
-        {
-            "Start": 362.84000000000003,
-            "End": 366.84000000000003,
-            "Text": " So if we talk about the meta description in the meta description tag,"
-        },
-        {
-            "Start": 366.84000000000003,
-            "End": 372.84000000000003,
-            "Text": " I want to show you guys that the HTML is executed by title tag."
-        },
-        {
-            "Start": 372.84000000000003,
-            "End": 377.8,
-            "Text": " So this is the meta tag, title tags, link tags."
-        },
-        {
-            "Start": 377.8,
-            "End": 381.8,
-            "Text": " So now the script tag means you can also talk about the body."
-        },
-        {
-            "Start": 381.8,
-            "End": 383.8,
-            "Text": " And what difference is this about it?"
-        },
-        {
-            "Start": 383.8,
-            "End": 384.8,
-            "Text": " We will talk about it."
-        },
-        {
-            "Start": 384.8,
-            "End": 387.8,
-            "Text": " But here you can talk about the link in the title tag."
-        },
-        {
-            "Start": 387.8,
-            "End": 391.8,
-            "Text": " Then you will see the main content on this page."
-        },
-        {
-            "Start": 391.88,
-            "End": 393.24,
-            "Text": " So you can see the image of this page."
-        },
-        {
-            "Start": 393.24,
-            "End": 395.24,
-            "Text": " So you can see the body."
-        },
-        {
-            "Start": 395.24,
-            "End": 396.76,
-            "Text": " So the body."
-        },
-        {
-            "Start": 396.76,
-            "End": 399.24,
-            "Text": " So the body can be seen in the top of the box."
-        },
-        {
-            "Start": 399.24,
-            "End": 401.24,
-            "Text": " And now you can see the script tag."
-        },
-        {
-            "Start": 401.24,
-            "End": 402.52000000000004,
-            "Text": " Now you can see the execute."
-        },
-        {
-            "Start": 402.52000000000004,
-            "End": 405.8,
-            "Text": " Now here you can click on the script tag and click the header."
-        },
-        {
-            "Start": 405.8,
-            "End": 406.52000000000004,
-            "Text": " What will happen?"
-        },
-        {
-            "Start": 406.52000000000004,
-            "End": 408.52,
-            "Text": " You will know that in the comment box."
-        },
-        {
-            "Start": 408.52,
-            "End": 411.40000000000003,
-            "Text": " But this is a basic structure HTML website."
-        },
-        {
-            "Start": 411.40000000000003,
-            "End": 413.24,
-            "Text": " Language is equal to, this is a attribute tag."
-        },
-        {
-            "Start": 413.24,
-            "End": 416.52,
-            "Text": " This is a tag that can be used with language."
-        },
-        {
-            "Start": 416.52,
-            "End": 419.96000000000004,
-            "Text": " Language is equal to,here it is a language that is value E."
-        },
-        {
-            "Start": 479.96000000000004,
-            "End": 483.46000000000004,
-            "Text": " army mina vao jo pias bhi bhont bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi ribhi bhi bhi bhi berst"
-        },
-        {
-            "Start": 483.46000000000004,
-            "End": 486.66,
-            "Text": " ne ho ne hai har jade theyeted chavula ka donuts."
-        },
-        {
-            "Start": 486.66,
-            "End": 491.16,
-            "Text": " kappa bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi"
-        },
-        {
-            "Start": 492.18000000000006,
-            "End": 496.50000000000006,
-            "Text": " The most important part of beings are senior software developers is to wear to ko bhi"
-        },
-        {
-            "Start": 496.72,
-            "End": 496.78000000000003,
-            "Text": " new are back infrastructure workers."
-        },
-        {
-            "Start": 496.94000000000005,
-            "End": 499.34000000000003,
-            "Text": " based staff areales d\u00e5 ko hashe hanu ko bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi"
-        },
-        {
-            "Start": 499.56000000000006,
-            "End": 503.18000000000006,
-            "Text": " and how to pay anasther from wear copyright court flooded carisuer k\u00f6 AltOS"
-        },
-        {
-            "Start": 503.46000000000004,
-            "End": 504.82000000000005,
-            "Text": " Japan jow bhe bhi bhi ab tam panhal"
-        },
-        {
-            "Start": 504.82,
-            "End": 508.82,
-            "Text": " This is my copyright statement, I have been saying this, but I am very happy with this statement."
-        },
-        {
-            "Start": 508.82,
-            "End": 511.82,
-            "Text": " Now I am going to tell you a lot about this technique."
-        },
-        {
-            "Start": 511.82,
-            "End": 513.8199999999999,
-            "Text": " You will be able to develop this website."
-        },
-        {
-            "Start": 513.8199999999999,
-            "End": 515.8199999999999,
-            "Text": " You will be able to develop this mobile."
-        },
-        {
-            "Start": 515.8199999999999,
-            "End": 516.8199999999999,
-            "Text": " You will be able to see it in this mobile."
-        },
-        {
-            "Start": 516.8199999999999,
-            "End": 517.8199999999999,
-            "Text": " Now, let's listen to this step."
-        },
-        {
-            "Start": 517.8199999999999,
-            "End": 519.8199999999999,
-            "Text": " Right click on terminal."
-        },
-        {
-            "Start": 519.8199999999999,
-            "End": 520.8199999999999,
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 519.6800000000001,
+            "End": 521.6800000000001,
             "Text": " And click on IP config."
         },
         {
-            "Start": 520.8199999999999,
-            "End": 523.8199999999999,
-            "Text": " If you are going to become a command prompt, then you can also call PowerShell."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 521.6800000000001,
+            "End": 523.6800000000001,
+            "Text": " If you are in your own version then you can also call the command prompt."
         },
         {
-            "Start": 523.8199999999999,
-            "End": 525.8199999999999,
-            "Text": " IP config click on it as you enter."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 523.6800000000001,
+            "End": 525.6800000000001,
+            "Text": " You can also call IP config like IP config."
         },
         {
-            "Start": 525.8199999999999,
-            "End": 528.8199999999999,
-            "Text": " You will see that IPv4 address you will see."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 525.6800000000001,
+            "End": 531.6800000000001,
+            "Text": " You can see that IPv4 address is used as 1 9 to 1 6 8 1 9 9."
         },
         {
-            "Start": 528.8199999999999,
-            "End": 531.8199999999999,
-            "Text": " 1 9 2 1 6 8 1 9 9."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 531.6800000000001,
+            "End": 534.6800000000001,
+            "Text": " Now this IP address is used as a copy."
         },
         {
-            "Start": 531.82,
-            "End": 534.82,
-            "Text": " Now, this IP address, we will get a copy here."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 534.6800000000001,
+            "End": 536.6800000000001,
+            "Text": " So this IPv4 address is used as a copy."
         },
         {
-            "Start": 534.82,
-            "End": 536.82,
-            "Text": " So, this IPv4 address will copy here."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 536.6800000000001,
+            "End": 539.6800000000001,
+            "Text": " And in your settings you can see live preview."
         },
         {
-            "Start": 536.82,
-            "End": 539.82,
-            "Text": " And in our settings, we will take life preview."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 539.6800000000001,
+            "End": 543.6800000000001,
+            "Text": " This local IP host address is used as files on daily kawais,"
         },
         {
-            "Start": 539.82,
-            "End": 541.82,
-            "Text": " This local IP host register,"
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 543.6800000000001,
+            "End": 546.6800000000001,
+            "Text": " that jaga per mail it will be your IP address."
         },
         {
-            "Start": 541.82,
-            "End": 546.82,
-            "Text": " to host your files on this list, you will be able to restart your IP address."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 546.6800000000001,
+            "End": 549.6800000000001,
+            "Text": " And after doing this, you can restart your VS code."
         },
         {
-            "Start": 546.82,
-            "End": 549.82,
-            "Text": " And after that, I will restart my VS code."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 549.6800000000001,
+            "End": 554.6800000000001,
+            "Text": " You can also make sure to ensure that you are going to verify your Wi-Fi settings."
         },
         {
-            "Start": 549.82,
-            "End": 554.82,
-            "Text": " You will be able to ensure one thing and ensure that you go to Wi-Fi settings."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 554.6800000000001,
+            "End": 556.6800000000001,
+            "Text": " You can add up to your network of private network."
         },
         {
-            "Start": 554.82,
-            "End": 556.82,
-            "Text": " You will be able to network private network."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 556.6800000000001,
+            "End": 558.6800000000001,
+            "Text": " Public network has to be private network."
         },
         {
-            "Start": 556.82,
-            "End": 559.82,
-            "Text": " In public network, you will be able to network on a private network."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 558.6800000000001,
+            "End": 560.6800000000001,
+            "Text": " You can enter your network and enter it via Wi-Fi."
         },
         {
-            "Start": 559.82,
-            "End": 562.82,
-            "Text": " In Wi-Fi, you will be able to network on a private network."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 560.6800000000001,
+            "End": 561.6800000000001,
+            "Text": " You can enter it via Wi-Fi."
         },
         {
-            "Start": 562.82,
-            "End": 565.82,
-            "Text": " And now, you will be able to review it properly."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 561.6800000000001,
+            "End": 565.6800000000001,
+            "Text": " And now you can preview it properly."
         },
         {
-            "Start": 565.82,
-            "End": 569.82,
-            "Text": " So, you will see that IP address, you will be able to download it."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 565.6800000000001,
+            "End": 567.6800000000001,
+            "Text": " Now you can see that it is available on your IP address."
         },
         {
-            "Start": 569.82,
-            "End": 571.82,
-            "Text": " You can also download it in your phone."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 567.6800000000001,
+            "End": 570.1,
+            "Text": " you guys will make your slash index rod html"
         },
         {
-            "Start": 571.82,
-            "End": 573.82,
-            "Text": " So, I will add IP address here."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 570.1,
+            "End": 572.48,
+            "Text": " this will also be added to my phone"
         },
         {
-            "Start": 573.82,
-            "End": 577.82,
-            "Text": " So, I will add 1 9 2.168.1.199."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 572.48,
+            "End": 574.7600000000001,
+            "Text": " so I can get IP address here"
         },
         {
-            "Start": 577.82,
-            "End": 578.82,
-            "Text": " 0.5000."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 574.7600000000001,
+            "End": 578.2,
+            "Text": " so I will add 1092.168.1.199"
         },
         {
-            "Start": 578.82,
-            "End": 581.82,
-            "Text": " Your 3000 viewers can also add your port via your port."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 578.2,
+            "End": 579.24,
+            "Text": " colon 5000"
         },
         {
-            "Start": 581.82,
-            "End": 583.82,
-            "Text": " And you will see that."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 579.24,
+            "End": 581.6400000000001,
+            "Text": " 3000 also, which is your port"
         },
         {
-            "Start": 583.82,
-            "End": 585.82,
-            "Text": " You will be able to preview the mobile in your mobile."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 581.6400000000001,
+            "End": 582.5200000000001,
+            "Text": " you can see there"
         },
         {
-            "Start": 585.82,
-            "End": 587.82,
-            "Text": " This trick is very easy."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 582.5200000000001,
+            "End": 583.7600000000001,
+            "Text": " and you can see it"
         },
         {
-            "Start": 587.82,
-            "End": 590.82,
-            "Text": " When we want to preview your mobile, that today,"
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 583.7600000000001,
+            "End": 584.5400000000001,
+            "Text": " Mill which is in the web site"
         },
         {
-            "Start": 590.82,
-            "End": 592.82,
-            "Text": " you can see that in the Zadaar website we will see that."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 584.5400000000001,
+            "End": 586.22,
+            "Text": " it has been previewed in mobile"
         },
         {
-            "Start": 592.82,
-            "End": 594.82,
-            "Text": " So, we will find that we will use this phone in our phone."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 586.22,
+            "End": 588.1800000000001,
+            "Text": " this trick is very easy"
         },
         {
-            "Start": 594.82,
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 588.1800000000001,
+            "End": 590.7,
+            "Text": " when we want to preview mobile"
+        },
+        {
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 590.7,
+            "End": 592.0600000000001,
+            "Text": " that we want to preview in the web site"
+        },
+        {
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 592.0600000000001,
+            "End": 593.8000000000001,
+            "Text": " when we watch the web sites"
+        },
+        {
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 593.8000000000001,
+            "End": 595.5600000000001,
+            "Text": " then we will try to find the phone"
+        },
+        {
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 595.5600000000001,
             "End": 598.82,
-            "Text": " It is very good for us to run the website."
+            "Text": " Auth\ud589\u800c \uc774 building is a Great facile attack!"
         },
         {
+            "number": "3",
+            "title": "videoplayback_3",
             "Start": 598.82,
-            "End": 600.82,
-            "Text": " And in computer development, that testing will be the key to this."
+            "End": 601.2800000000001,
+            "Text": " and Computer is Om concept to be done by eyes,ilo you confirm"
         },
         {
-            "Start": 600.82,
-            "End": 603.82,
-            "Text": " If you want to review the mobile, you will not be able to review it."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 601.2800000000001,
+            "End": 602.1,
+            "Text": " So lets start the testing"
         },
         {
-            "Start": 603.82,
-            "End": 606.82,
-            "Text": " I will request you to review it before I post this video."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 602.1,
+            "End": 604.1400000000001,
+            "Text": " Now if you want toest\u00e4ism if you don't get it in a pallet video"
         },
         {
-            "Start": 606.82,
-            "End": 608.82,
-            "Text": " You will be able to review it before you post this video."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 604.1400000000001,
+            "End": 604.96,
+            "Text": " Never give a revelation to your n\u00e9ity"
         },
         {
-            "Start": 608.82,
-            "End": 609.82,
-            "Text": " If you want to review this video, please tell me about it."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 604.96,
+            "End": 606.48,
+            "Text": " Then I would like to ask you to request a Analysis ofma"
         },
         {
-            "Start": 609.82,
-            "End": 610.82,
-            "Text": " Please review it."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 606.48,
+            "End": 610.6800000000001,
+            "Text": " For first youtube, if you don't like it in everyday life journalist will like it"
         },
         {
-            "Start": 610.82,
-            "End": 611.82,
-            "Text": " You will be able to review it before you post it."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 610.6800000000001,
+            "End": 619.96,
+            "Text": " Give dram"
         },
         {
-            "Start": 611.82,
-            "End": 613.82,
-            "Text": " The next video will be on your review."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 619.96,
+            "End": 624.0400000000001,
+            "Text": " sparima"
         },
         {
-            "Start": 613.82,
-            "End": 615.32,
-            "Text": " Ablik Dhanam, you are a initial review."
-        },
-        {
-            "Start": 615.32,
-            "End": 616.82,
-            "Text": " You're like, you're like, you're like, you're a initial review"
-        },
-        {
-            "Start": 616.82,
-            "End": 618.32,
-            "Text": " People will understand this, and they'll know that, in this course,"
-        },
-        {
-            "Start": 618.32,
-            "End": 619.62,
-            "Text": " I've reviewed this."
-        },
-        {
-            "Start": 619.62,
-            "End": 621.0200000000001,
-            "Text": " So, after 5 months, you've given me one chance,"
-        },
-        {
-            "Start": 621.0200000000001,
-            "End": 622.22,
-            "Text": " in which you've got a playlist,"
-        },
-        {
-            "Start": 622.22,
-            "End": 624.12,
-            "Text": " and I'm gonna got this inspection in this description."
-        },
-        {
-            "Start": 624.12,
-            "End": 625.9200000000001,
-            "Text": " Or due to you, you have to click that book."
-        },
-        {
-            "Start": 625.9200000000001,
-            "End": 627.9200000000001,
-            "Text": " Or you'll start clicking this book."
-        },
-        {
-            "Start": 627.9200000000001,
-            "End": 630.08,
-            "Text": " Or you will start posting it in your book,"
-        },
-        {
-            "Start": 630.08,
-            "End": 631.6600000000001,
-            "Text": " or I'll start showing the micro-proud or."
-        },
-        {
-            "Start": 631.6600000000001,
-            "End": 633.9200000000001,
-            "Text": " You wrote your book, and you'll start posting it."
-        },
-        {
-            "Start": 633.9200000000001,
-            "End": 635.12,
-            "Text": " You've got a lot of work."
-        },
-        {
-            "Start": 635.12,
-            "End": 636.32,
-            "Text": " People will be learning to invest,"
-        },
-        {
-            "Start": 636.32,
-            "End": 637.32,
-            "Text": " you know, you've got some success in it."
-        },
-        {
-            "Start": 637.32,
-            "End": 640.32,
-            "Text": " You have to work with it and play it."
-        },
-        {
-            "Start": 640.32,
-            "End": 644.82,
-            "Text": " So play list of co-accesses, like this video, like this video and share with your friends."
-        },
-        {
-            "Start": 644.82,
-            "End": 649.62,
-            "Text": " Thank you so much guys for watching this video and I will see you next time."
-        },
-        {
-            "Start": 670.32,
-            "End": 677.32,
-            "Text": " Thank you so much for watching this video."
+            "number": "3",
+            "title": "videoplayback_3",
+            "Start": 624.04,
+            "End": 637.0999999999999,
+            "Text": " Please stay tuned!"
         }
     ],
-    "full_text": " What are you guys doing?  It's Sigma web development course.  I'm really happy that you guys have such a nice app.  You guys have got this course.  You guys have to like this course.  Because for this Sigma free course,  this is the same thing for Sigma Chats.  In today's video, I'll tell you about a basic structure  where a website is going to be written.  Similarly, I'll tell you about a mobile trick.  You'll know that you can preview your phone in your phone.  You'll know me in the comment section below.  You'll know that you don't have any HTML.  That will help me structure this course better.  In this video, I'll tell you about Chats.  Because in Chats, I'll tell you about a lot of things.  In today's video, I'll tell you about a lot of things.  So, in this video, I'll tell you about a lot of things.  And all the concepts you learn.  Let's go to the next screen.  Let's go to the next screen.  So, in this match of your computer screen,  I'll talk about a bit of a misconception.  I'll tell you about a lot of things like a day and a week.  A structure is based on some websites.  So, I'll tell you about this in this video.  Then, I'll tell you about a new folder, video 3 and video 3.  And I'll tell you about another shift right away.  And I'll tell you about this here.  Which is my theme.  She's a blue colour.  And she will tell that she's a blue or blue thing.  You can see that she has a theme which is a good choice.  If you want to change your colour theme,  then you can change the colour theme in the green,  Here I am going to ask you to subscribe to my channel and share this video with your friends.  You can also press subscribe to my channel and share this video with your friends.  Here I am going to go to open with browser.  Here I am going to go to the background and write this on my channel.  I am not going to tell you this already.  I am going to tell you this already.  You will now tell me that this structure is very important.  Now you have to reload it.  Now I will tell you something.  I am going to hit on my right leg and I will explain this.  This is a basic structure that is on STMIL website.  First we want to talk about Dr. PHDMIL.  Then its NCT ML attack opening tag.  It was opened tag or closed tag for Mahatabharata.  You can do your opening tag or your closing tag.  I am going to give a head of the opening tag.  This is the same thing as this one.  This is the same thing as that of the HK content.  What is the same thing as the HTA?  SSTMILG CONTENT.  Usee is a title ken that jobi jeez evo title ga content.  Ab app lo kove meta content kya vr.  So meta hootay hai is a self closing tag.  2-thana ghtakzoo the e. HTML mega self closing tag.  Ore kootay hai pair tag.  pair tag bhi kyao tai ki app ka opening tag hootayi closing tag hootayi.  So, this is a structure shtmILG website.  Now, here you can see background red.  This politics logo, here you must read red.  Right here is suissans act kya doana shtas kootayi hesyatto ou dc\u00ed es syetzung.  S Stockholm newspaper will and this is the only thing for this election To be remembered  basoolish tax.  If you change the object of a project or you want to see a total of 10 bullet  HTML Introduction & title page, so these titles on page are used in search engines and parts of the page.  Now you will see page change, so you will see HTML working as a title.  Now I will show you the page change and you will see HTML installation as a title.  So titles which are used in the same way, you will see a change in the same way, which will be used in the same way.  So HTML pages are used in title means you don't know what you are seeing here.  This is used in this way.  And this is the basis of the page content.  So this is the one that describes the page content.  So I am going to tell you the HTML execution.  HTML execution means HTML execution is executed.  This is the basis of page change.  So page title change is very good.  So in any framework we will make a page title change.  Now you will see the header section of the header page, which is titled by title.  And you will see the script you want to link.  So this is also the meta tags that we will talk about in the meta tags.  Meta tags means basically this is the HTML document.  How is it?  Keywords are used in the description.  Meta description is a very important keyword for this.  So here you can select the page.  But you will see my website as well.  So you will see the view page source in the meta description tag.  You can see the compressed HTML, but you can see the meta description tag.  So if we talk about the meta description in the meta description tag,  I want to show you guys that the HTML is executed by title tag.  So this is the meta tag, title tags, link tags.  So now the script tag means you can also talk about the body.  And what difference is this about it?  We will talk about it.  But here you can talk about the link in the title tag.  Then you will see the main content on this page.  So you can see the image of this page.  So you can see the body.  So the body.  So the body can be seen in the top of the box.  And now you can see the script tag.  Now you can see the execute.  Now here you can click on the script tag and click the header.  What will happen?  You will know that in the comment box.  But this is a basic structure HTML website.  Language is equal to, this is a attribute tag.  This is a tag that can be used with language.  Language is equal to,here it is a language that is value E.  army mina vao jo pias bhi bhont bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi ribhi bhi bhi bhi berst  ne ho ne hai har jade theyeted chavula ka donuts.  kappa bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi  The most important part of beings are senior software developers is to wear to ko bhi  new are back infrastructure workers.  based staff areales d\u00e5 ko hashe hanu ko bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi bhi  and how to pay anasther from wear copyright court flooded carisuer k\u00f6 AltOS  Japan jow bhe bhi bhi ab tam panhal  This is my copyright statement, I have been saying this, but I am very happy with this statement.  Now I am going to tell you a lot about this technique.  You will be able to develop this website.  You will be able to develop this mobile.  You will be able to see it in this mobile.  Now, let's listen to this step.  Right click on terminal.  And click on IP config.  If you are going to become a command prompt, then you can also call PowerShell.  IP config click on it as you enter.  You will see that IPv4 address you will see.  1 9 2 1 6 8 1 9 9.  Now, this IP address, we will get a copy here.  So, this IPv4 address will copy here.  And in our settings, we will take life preview.  This local IP host register,  to host your files on this list, you will be able to restart your IP address.  And after that, I will restart my VS code.  You will be able to ensure one thing and ensure that you go to Wi-Fi settings.  You will be able to network private network.  In public network, you will be able to network on a private network.  In Wi-Fi, you will be able to network on a private network.  And now, you will be able to review it properly.  So, you will see that IP address, you will be able to download it.  You can also download it in your phone.  So, I will add IP address here.  So, I will add 1 9 2.168.1.199.  0.5000.  Your 3000 viewers can also add your port via your port.  And you will see that.  You will be able to preview the mobile in your mobile.  This trick is very easy.  When we want to preview your mobile, that today,  you can see that in the Zadaar website we will see that.  So, we will find that we will use this phone in our phone.  It is very good for us to run the website.  And in computer development, that testing will be the key to this.  If you want to review the mobile, you will not be able to review it.  I will request you to review it before I post this video.  You will be able to review it before you post this video.  If you want to review this video, please tell me about it.  Please review it.  You will be able to review it before you post it.  The next video will be on your review.  Ablik Dhanam, you are a initial review.  You're like, you're like, you're like, you're a initial review  People will understand this, and they'll know that, in this course,  I've reviewed this.  So, after 5 months, you've given me one chance,  in which you've got a playlist,  and I'm gonna got this inspection in this description.  Or due to you, you have to click that book.  Or you'll start clicking this book.  Or you will start posting it in your book,  or I'll start showing the micro-proud or.  You wrote your book, and you'll start posting it.  You've got a lot of work.  People will be learning to invest,  you know, you've got some success in it.  You have to work with it and play it.  So play list of co-accesses, like this video, like this video and share with your friends.  Thank you so much guys for watching this video and I will see you next time.  Thank you so much for watching this video."
+    "full_text": " What are you guys doing?  You guys are busy today.  You guys are sick, my web development course.  I'm really happy that you guys have so many things to do.  You guys have got so many things to do.  You guys have to like this course.  Because for this sick, you guys have to like this sick, my chats.  Today's video I'll tell you about basic structures  where I go from one website to another.  That's why I'll tell you about a mobile trick that you guys will know  that you can preview your phone in your phone.  You guys have requested me to comment section.  You guys have to know that you don't have any HDML.  That will help me structure this course better.  In this video I'll tell you about a chargey beauty gun.  Because it's a chargey beauty gun.  I'm going to talk about it a few times.  In other videos I'll tell you about a lot of things.  So I'll tell you more about this video and the concept of all the concepts.  Let's go to the screen and let's roll the dice.  So this is my computer screen.  And now we'll talk about a lot of things that I'll talk about.  I'll tell you about a lot of things that I'll tell you about.  So here I'll tell you about my folder.  In this video I'll tell you about a new folder, video 3 and video 3.  I'll open up the ship to open up the open with code.  And here you can see that my theme is blue color.  And the bossa will tell you that this is blue theme.  You can see that the theme is that you want to change your choice if you want to change your color.  So you can change your color in your color.  I'll use the Guit of God.  I'll use the Guit of God.  You can use it.  One new file is for you.  I'll add the index.html.  We've already talked about this.  You can download the title of the page or the content.  You can use the link to the link.  You can use the link to the code.  I'm using it for this.  I've already mentioned in the previous video.  y Mrz get\u8857 dal..The is your home and although there isn't had enough cash to reload  you can see that there is so much cash...  , From there no Obs Alexandria has all these kind of  2016 \u5165  Now let me tell you about this page, this page is used in the use of title set.  Now if you don't know if you don't know, you can see the title of the page.  The search engines are used, they are used as a search engine.  The search engines are used as Google, if you want to see a code with Harry HTML.  So the code with Harry HTML introduction, HTML working, all the titles are given by me.  You can see that there is a search engine in the HTML introduction.  So these titles are used as search engines, and they are parsed.  Now let me change the page.  So you will see HTML working as a title.  Now I will show you the HTML installation of the other page.  So the titles are used as a search engine as a search engine.  You can see the title of the page.  So the title of the page is used as a search engine.  You can see that the title is used as a search engine.  The most important part of being a senior software developer is to wear to copy paste.  From which type of work flow question do copy paste?  And how do you paste it from where copyright code is added?  You can see that there are two types of topics which you can understand.  This is my copyright statement.  But I am very excited about this statement.  Now let me tell you a lot about this technique.  You can see that there are two types of topics which we will develop in this mobile.  Now let me tell you the steps.  Let me tell you right click on terminal call.  And click on IP config.  If you are in your own version then you can also call the command prompt.  You can also call IP config like IP config.  You can see that IPv4 address is used as 1 9 to 1 6 8 1 9 9.  Now this IP address is used as a copy.  So this IPv4 address is used as a copy.  And in your settings you can see live preview.  This local IP host address is used as files on daily kawais,  that jaga per mail it will be your IP address.  And after doing this, you can restart your VS code.  You can also make sure to ensure that you are going to verify your Wi-Fi settings.  You can add up to your network of private network.  Public network has to be private network.  You can enter your network and enter it via Wi-Fi.  You can enter it via Wi-Fi.  And now you can preview it properly.  Now you can see that it is available on your IP address.  you guys will make your slash index rod html  this will also be added to my phone  so I can get IP address here  so I will add 1092.168.1.199  colon 5000  3000 also, which is your port  you can see there  and you can see it  Mill which is in the web site  it has been previewed in mobile  this trick is very easy  when we want to preview mobile  that we want to preview in the web site  when we watch the web sites  then we will try to find the phone  Auth\ud589\u800c \uc774 building is a Great facile attack!  and Computer is Om concept to be done by eyes,ilo you confirm  So lets start the testing  Now if you want toest\u00e4ism if you don't get it in a pallet video  Never give a revelation to your n\u00e9ity  Then I would like to ask you to request a Analysis ofma  For first youtube, if you don't like it in everyday life journalist will like it  Give dram  sparima  Please stay tuned!"
 }
