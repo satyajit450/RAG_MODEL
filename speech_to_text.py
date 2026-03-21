@@ -10,8 +10,7 @@ model = WhisperModel(
 audio_files = os.listdir("audios")
 for audio in audio_files:
     if("_" in audio):
-        number = audio.split("_")[0]
-        title = audio.split("_")[1][:-4]
+        title = audio.split(".")[0]
         if audio.endswith(".mp3"):
             segments, info = model.transcribe(f"audios/{audio}")
 
@@ -33,3 +32,5 @@ for audio in audio_files:
 
             with open(f"chunks/{output_name}", "w") as f:
                 json.dump(chunks_with_metadata, f, indent=4)
+            
+       
