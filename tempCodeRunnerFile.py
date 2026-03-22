@@ -1,19 +1,6 @@
-     chunks = []
-            
-            for segment in segments:
-                chunks.append({
-                    "title": segment.title,
-                    "Start": segment.start,
-                    "End": segment.end,
-                    "Text": segment.text
-                })
-
-            chunks_with_metadata = {
-                "chunks": chunks,
-                "full_text": " ".join([c["Text"] for c in chunks])
-            }
-
-            output_name = os.path.splitext(audio)[0] + ".json"
-
-            with open(f"chunks/{output_name}", "w") as f:
-                json.dump(chunks_with_metadata, f, indent=4)
+def create_embedding(text_list):
+    r = requests.post("http://localhost:11434/api/embed", json={
+        "model": "bge-m3",
+        "input": text_list
+    })
+    return r.json()["embeddings"]
