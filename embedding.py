@@ -20,7 +20,7 @@ chunk_id = 0
 
 for json_file in jsons:
     with open(f"chunks/{json_file}",encoding='utf-8') as f:
-        content = json.load(f)
+        content = json.load(f)                                   ## For printing
 
     print(f"Creating Embeddings for {json_file}")
 
